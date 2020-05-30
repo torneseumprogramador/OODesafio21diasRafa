@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CAB3B754-D3F9-48BE-B639-6948974DEEF7}|Default">
+  <MonoDevelop.Ide.ItemProperties.ORM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ORM/Service.cs">
+    <Files>
+      <File FileName="ORM/Service.cs" Line="510" Column="28" />
+      <File FileName="Test/Program.cs" Line="29" Column="42" />
+      <File FileName="ORM/CType.cs" Line="36" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExercicioDesafio21" expanded="True">
+            <Node name="ORM" expanded="True">
+              <Node name="Service.cs" selected="True" />
+            </Node>
+            <Node name="Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
